@@ -4,6 +4,8 @@ import socket
 import threading
 import os,sys
 
+print("Don't Abuse")
+print("Tools By Rifqi")
 os.system("clear")    
 ip = str(input("  Ip Nya:"))
 port = int(input(" Port Nya:"))
