@@ -4,9 +4,18 @@ import socket
 import threading
 import os,sys
 
+os.system("clear")
+print("""
+\033[91m 
+ ____  _  __       _ 
+ |  _ \(_)/ _| __ _(_)
+ | |_) | | |_ / _` | |
+ |  _ <| |  _| (_| | |
+ |_| \_\_|_|  \__, |_|
+                 |_|  
+""")
 print("Don't Abuse")
-print("Tools By Rifqi")
-os.system("clear")    
+print("Tools By Rifqi")    
 ip = str(input("  Ip Nya:"))
 port = int(input(" Port Nya:"))
 choice = str(input(" HANCURIN GAK NICH? (y/n):"))
